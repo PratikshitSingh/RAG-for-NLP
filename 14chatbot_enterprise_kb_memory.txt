@@ -1,0 +1,34 @@
+
+Welcome to the Employee Knowledge Base
+
+1. Leave Policy:
+Full-time employees are eligible for 24 paid leave days annually.
+Unused leave up to 10 days can be carried forward.
+Leave requests must be submitted via the HR portal at least 3 days in advance.
+
+2. Work From Home:
+Employees may work remotely up to 3 days per week.
+Exceptions require prior approval from the reporting manager and HR.
+
+3. Expense Reimbursement:
+All claims must be submitted within 10 business days.
+Covered expenses include meals, travel, and lodging.
+Reimbursement claims require scanned receipts and manager approval.
+
+4. Performance Reviews:
+Annual performance reviews are conducted in March.
+The evaluation includes self-assessment, peer feedback, and goal achievement.
+
+5. Exit Policy:
+Employees must serve a 30-day notice period before resignation.
+Company property such as laptops and access cards must be returned.
+
+6. IT Policy:
+All employees must use MFA for internal systems.
+Sharing of passwords is strictly prohibited.
+Data must be transferred only through company-approved channels.
+
+7. Communication Guidelines:
+Use Slack for internal communication.
+Emails should be professional and include relevant team members.
+Avoid using personal messaging apps for business purposes.
